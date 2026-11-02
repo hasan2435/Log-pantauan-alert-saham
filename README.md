@@ -1,6 +1,6 @@
 # Log Pantau Alert Saham
 
-Halaman log untuk alert saham gorengan (dibuka dari aplikasi Muse).
+Halaman log untuk alert saham gorengan (aplikasi web).
 
 ## Fitur
 - Waktu scan terakhir dan 20 ticker yang dicek
