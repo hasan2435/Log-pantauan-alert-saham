@@ -17,3 +17,9 @@ Halaman log untuk alert saham gorengan (dibuka dari aplikasi Muse).
 
 ## Catatan
 Halaman ini hanya log pantauan, tidak mengubah aturan atau daftar ticker alert. Hasil screening bukan rekomendasi pasti.
+
+## Versi terminal (bisa dijalankan sendiri)
+```bash
+python3 log_pantau.py            # satu kali scan
+python3 log_pantau.py --loop     # scan tiap 15 menit jam bursa
+```
